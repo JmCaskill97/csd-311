@@ -78,7 +78,7 @@ bilbo = {
     ]
 }
 
-# Frodo Baggins data document
+
 frodo = {
     "student_id": "1009",
     "first_name": "Frodo",
